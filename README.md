@@ -7,23 +7,23 @@ Clone the repository using the command below:
 ## Installation
 1. Clone the repository:
 ```bash
- git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/yourusername/yourproject.git
 ```
 
 2. Install dependencies:
 ```bash
- npm install
+npm install
  ```
 
 3. Run database migrations:
 ```bash
-    php artisan migrate
+php artisan migrate
  ```
 
 Run seeders to populate initial data:
 4. Run database migrations:
 ```bash
-    php artisan db:seed
+php artisan db:seed
  ```
 
 4. Install Node.js dependencies:
